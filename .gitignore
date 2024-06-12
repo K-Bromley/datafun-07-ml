@@ -18,3 +18,6 @@ __pycache__/
 # Python Jupyter Notebook checkpoints and runtime files
 .ipynb_checkpoints/
 *.ipynb_meta/
+
+book_tests/
+ave_hi_nyc2_jan_1895-2018.csv/
