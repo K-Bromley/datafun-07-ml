@@ -20,4 +20,6 @@ __pycache__/
 *.ipynb_meta/
 
 book_tests/
-ave_hi_nyc2_jan_1895-2018.csv/
+
+data/
+
